@@ -1,7 +1,16 @@
 :root{
     --main-font: 'Roboto', sans-serif;
+    --main-font-color: #212121
+    --secondary-font-color: #757575
+    --hover-color: #2196F3
+    --main-background-color: #FFFFFF
+    --secondary-background-color: #2F303A
+    --background-button-color: #F5F4FA
 }
 
 body{
-    font-family: var(--main-font)
+    font-family: var(--main-font);
+    font-size: 14px;
+    background-color: var(----main-background-color);
+
 }
