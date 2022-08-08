@@ -123,4 +123,46 @@ body{
 
 .advantage{
     width: 270px;
+
+}
+
+/* Чем мы занимаемся */
+
+.section-title{
+
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+
+/* Наша команда */
+
+.team{
+    background-color: #F5F4FA;
+}
+
+.name{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+}
+
+.job-title{
+    color: var(--secondary-font-color);
+    font-size: 16px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+}
+
+/* Стилизация футера */
+
+.footer{
+    background-color: var(--secondary-background-color);
+}
+
+.list{
+    text-decoration: none;
 }
