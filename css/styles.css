@@ -54,6 +54,9 @@ body{
 .contact-link{
     text-decoration: none;
     color: var(--secondary-font-color);
+    font-weight: 500;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
 }
 
 .menu-link:hover, .menu-link:focus{
